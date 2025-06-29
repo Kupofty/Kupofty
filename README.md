@@ -7,5 +7,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  [![Kupofty's GitHub stats](https://github-readme-stats.vercel.app/api?username=kupofty)](https://github.com/kupofty/github-readme-stats)
+  [![Kupofty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kupofty)](https://github.com/Kupofty/github-readme-stats)
 </div>
