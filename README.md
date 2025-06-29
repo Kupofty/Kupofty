@@ -11,19 +11,15 @@
 
 <!-- GITHUB STATS -->
 ## 📊  Statistics
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kupofty&hide_rank=true&theme=radical&show_icons=true&count_private=true" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupofty&theme=radical&layout=compact" />
-  </a> 
-  
-   <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kupofty.visitor-badge) 
-   ![](https://komarev.com/ghpvc/?username=Kupofty&color=brightgreen) -->
-</p>
+<div align=center>
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Kupofty&rank_icon=github&theme=radical&show_icons=true&count_private=true" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupofty&theme=radical&layout=compact" />
+</div>
 
+<!-- Visitors -->
+ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kupofty.visitor-badge) 
+ ![](https://komarev.com/ghpvc/?username=Kupofty&color=brightgreen) -->
+   
 <!-- BADGES 1 -->
 <!--<p align="center">
    For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
