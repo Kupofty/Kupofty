@@ -3,9 +3,10 @@
   Hi there 👋
 </div>
 
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Kupofty&theme=highcontrast&show_icons=true&count_private=true) -->
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  [![Kupofty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kupofty)](https://github.com/Kupofty/github-readme-stats)
+</div>
+
+<div align="center">
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Kupofty&theme=highcontrast&show_icons=true&count_private=true)
 </div>
