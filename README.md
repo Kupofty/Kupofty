@@ -16,16 +16,12 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kupofty&hide_rank=true&theme=radical&show_icons=true&count_private=true" />
   </a>
   
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
-
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupofty&theme=radical&layout=compact" />
   </a> 
   
-
    <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kupofty.visitor-badge) 
    ![](https://komarev.com/ghpvc/?username=Kupofty&color=brightgreen) -->
-
 </p>
 
 <!-- BADGES 1 -->
@@ -44,6 +40,8 @@
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624) -->
 
 ## 🛠  Technologies and tools
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
+
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-OS?style=flat&logo=windows&logoColor=white&color=0078D6)
 
