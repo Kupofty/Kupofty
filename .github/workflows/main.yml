@@ -5,7 +5,7 @@ name: Generate Snake
 on:
   schedule:
       # timer (hours)
-    - cron: "0 */12 * * *"
+    - cron: "0 */168 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
