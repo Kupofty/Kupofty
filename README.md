@@ -9,33 +9,27 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div> 
 
+
 <!-- GITHUB STATS -->
-## 📊  Statistics
 <div align=center>
+  <h2>  Statistics 📊</h2>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Kupofty&rank_icon=github&theme=radical&show_icons=true&count_private=true" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupofty&theme=radical&layout=compact" />
 </div>
 
-<!-- Visitors -->
- <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kupofty.visitor-badge) 
- ![](https://komarev.com/ghpvc/?username=Kupofty&color=brightgreen) -->
-   
-<!-- BADGES 1 -->
-<!--<p align="center">
-   For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <!-- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/qt.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p> -->
 
-<!-- BADGES 2 -->
-<!-- ![Qt](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&color=3776AB)
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&color=3776AB)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624) -->
+  
+<div align="center">
+  <h2> My Contributions 🐍 </h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kupofty/Kupofty/output/github-contribution-grid-snake.svg" />
+</div>
 
-## 🛠  Technologies and tools
+
+
+<div align="center">
+  <h2>  Technologies and tools 🛠 </h2>
+</div>
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
 
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -56,6 +50,26 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&color=purple&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+
+<!-- Visitors -->
+ <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kupofty.visitor-badge) 
+ ![](https://komarev.com/ghpvc/?username=Kupofty&color=brightgreen) -->
+   
+<!-- BADGES 1 -->
+<!--<p align="center">
+   For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <!-- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/qt.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p> -->
+
+<!-- BADGES 2 -->
+<!-- ![Qt](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&color=3776AB)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&color=3776AB)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624) -->
 
 
 
