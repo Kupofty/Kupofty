@@ -1,6 +1,7 @@
-<div align="center">
+<!-- WELCOME MESSAGE -->
+<!-- <div align="center">
   Hi there 👋
-</div>
+</div> -->
 
 <!-- PROGRAMMER GIF -->
 <div align="center">
