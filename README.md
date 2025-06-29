@@ -13,17 +13,18 @@
 ## 📊  Statistics
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kupofty&theme=radical&show_icons=true&count_private=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kupofty&hide_rank=true&theme=radical&show_icons=true&count_private=true" />
   </a>
   
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-  
-  <!-- <a href="https://github.com/anuraghazra/convoychat">
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
+
+  <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupofty&theme=radical&layout=compact" />
-  </a> -->
+  </a> 
+  
 
    <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kupofty.visitor-badge) 
-   ![](https://komarev.com/ghpvc/?username=Kupofty&color=brightgreen) ->>
+   ![](https://komarev.com/ghpvc/?username=Kupofty&color=brightgreen) -->
 
 </p>
 
@@ -50,13 +51,12 @@
 ![RPI](https://img.shields.io/badge/Raspberry-PI?style=flat&logo=raspberry-pi&color=C51A4A&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop-FCC624?style=flat&logo=desktop&color=blue&logoColor=white)
 
-![Qt](https://img.shields.io/badge/Qt-informational?style=flat&logo=qt&color=41CD52&logoColor=white)
-![Vscode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![QtCreator](https://img.shields.io/badge/QtCreator-informational?style=flat&logo=qt&color=41CD52&logoColor=white)
+![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
 <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white"></a>
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-<a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FFD43B"></a>
-
+<a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=FCC624"></a>
 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&color=black&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
