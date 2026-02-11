@@ -4,28 +4,29 @@
 </div> -->
 
 <!-- PROGRAMMER GIF -->
+<!-- 
 <div align="center">
-  <!-- <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div> 
-
+-->
 
 <!-- GITHUB STATS -->
+<!-- 
 <div align=center>
   <h2>  Statistics 📊</h2>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Kupofty&rank_icon=github&theme=radical&show_icons=true&count_private=true" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupofty&theme=radical&layout=compact" />
 </div>
+-->
 
-
-  
+<!-- GITHUB CONTRIBUTIONS - SNAKE ANIMATION -->
 <div align="center">
   <h2> My Contributions 🐍 </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kupofty/Kupofty/output/github-contribution-grid-snake.svg" />
 </div>
 
 
-
+<!-- GITHUB STATS -->
 <div align="center">
   <h2>  Technologies and tools 🛠 </h2>
 </div>
