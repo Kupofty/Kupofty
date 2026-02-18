@@ -10,14 +10,46 @@
 </div> 
 -->
 
-<!-- GITHUB STATS -->
-<!-- 
-<div align=center>
-  <h2>  Statistics 📊</h2>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Kupofty&rank_icon=github&theme=radical&show_icons=true&count_private=true" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kupofty&theme=radical&layout=compact" />
+<!-- GITHUB STATS -
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <h2>  Statistics 📊</h2> -->
+
+<!-- DROPDOWN MENU -->
+<!-- <details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+
+</p>
+</details> -->
+
+<!-- Github Stats Extended -
+  ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api/?username=Kupofty&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&custom_title=Kupofty's+Github+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+--> 
+<!-- Default Github Stats -
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Kupofty&show_icons=true&count_private=true&theme=transparent&title_color=00bfff&icon_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Kupofty&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=Kupofty&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+-->
+
+  <!-- Top Languages -
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Kupofty&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Kupofty&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Kupofty&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+-->
+
+ <!-- Github Streak
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kupofty&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
 </div>
 -->
+
+</div>
+
 
 <!-- GITHUB CONTRIBUTIONS - SNAKE ANIMATION -->
 <div align="center">
@@ -75,10 +107,4 @@
 
 
 
-<!-- DROPDOWN MENU -->
-<!-- <details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
 
-</p>
-</details> -->
