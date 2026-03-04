@@ -41,29 +41,31 @@
   </picture>
 -->
 
- <!-- Github Streak
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kupofty&theme=transparent&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" alt="GitHub Streak" height="200px"/>
-</div>
--->
-
-</div>
-
 
 <!-- GITHUB CONTRIBUTIONS - SNAKE ANIMATION -->
+<!--
 <div align="center">
   <h2> My Contributions 🐍 </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kupofty/Kupofty/output/github-contribution-grid-snake.svg" />
 </div>
+-->
+
+<div align="center">
+  <!-- Github Stat Streak -->
+  <a href="https://github.com/Kupofty"><img src="https://streak-stats.demolab.com?user=Kupofty&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" height="180px"/></a>
+  
+  <!-- Octocat GIF -->
+  <img center="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
+</div>
 
 
 <!-- GITHUB STATS -->
+<!--
 <div align="center">
   <h2>  Technologies and tools 🛠 </h2>
 </div>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
+<img align='right src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50"'>
 
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-OS?style=flat&logo=windows&logoColor=white&color=0078D6)
@@ -84,7 +86,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&color=purple&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-
+-->
 <!-- Visitors -->
  <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kupofty.visitor-badge) 
  ![](https://komarev.com/ghpvc/?username=Kupofty&color=brightgreen) -->
