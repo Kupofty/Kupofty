@@ -51,16 +51,14 @@
 -->
 
 
-<!-- Github Stat Streak -->
-<!--<a href="https://github.com/Kupofty"><img src="https://streak-stats.demolab.com?user=Kupofty&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" height="180px"/></a> -->
-  
 <!-- Octocat GIF -->
 <!-- <img center="right" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='40"'>
 -->
 
-<!--<div align="center">
-
-</div>->>
+<!-- Github Stat Streak -->
+<div align="center">
+  <a href="https://github.com/Kupofty"><img src="https://streak-stats.demolab.com?user=Kupofty&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" height="180px"/></a> 
+</div>
 
 
 <!-- GITHUB STATS -->
